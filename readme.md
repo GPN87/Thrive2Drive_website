@@ -12,3 +12,5 @@ It is a website for my Mum's driving school. She needed a site around the same t
 - There is a tiny bit of javascript for the animation on the homepage.
 
 Definitely not going to win any awards, but it was my first exposure to coding, and I like having it on here as a reference point/nostalgia piece. And if you need an experienced driving instructor in the Greater Western Sydney region, enquire within!
+
+![homepage](img/home.png)
